@@ -1,2 +1,2 @@
 # csharp
-Exercicios e programas do curso de C#
+Exercicios e programas de C#
